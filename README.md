@@ -8,3 +8,5 @@ Some Demos with Material Editor
 ![MaterialEditor Demo1](https://github.com/Jingzheng-Li/MaterialEditor/blob/main/MaterialEditor_Demo2.gif)
 
 ![MaterialEditor Demo1](https://github.com/Jingzheng-Li/MaterialEditor/blob/main/MaterialEditor_Demo3.gif)
+
+To be continued: add some explantion
