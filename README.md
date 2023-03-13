@@ -1,5 +1,11 @@
 # MaterialEditor
-Use Cmake to build Material Editor
+Build Method:
+
+mkdir build
+cd build
+cmake .. && make
+
+(only support windows10 right now)
 
 Some Demos with Material Editor
 
